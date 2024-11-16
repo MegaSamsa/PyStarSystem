@@ -210,7 +210,7 @@ def main():
     window = Tk()
     window.title("StarSys")
     window.geometry("640x480")
-    window.iconbitmap("sun.ico")
+    window.iconbitmap("icon.ico")
 
     menu = Menu()
     options = Menu(tearoff=0)
