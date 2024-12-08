@@ -1,0 +1,39 @@
+{
+    "star_data": {
+        "O": {
+            "temperature_range": [30000, 32000],
+            "ratio": 0.0000003,
+            "radius": 6.6
+        },
+        "B": {
+            "temperature_range": [9700, 30000],
+            "ratio": 0.0013,
+            "radius": [1.8, 6.6]
+        },
+        "A": {
+            "temperature_range": [7200, 9700],
+            "ratio": 0.006,
+            "radius": [1.4, 1.8]
+        },
+        "F": {
+            "temperature_range": [5700, 7200],
+            "ratio": 0.03,
+            "radius": [1.1, 1.4]
+        },
+        "G": {
+            "temperature_range": [4900, 5700],
+            "ratio": 0.076,
+            "radius": [0.9, 1.1]
+        },
+        "K": {
+            "temperature_range": [3400, 4900],
+            "ratio": 0.121,
+            "radius": [0.7, 0.9]
+        },
+        "M": {
+            "temperature_range": [2100, 3400],
+            "ratio": 0.765,
+            "radius": 0.7
+        }
+    }
+}

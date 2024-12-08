@@ -17,3 +17,4 @@
 - `tkinter`
 - `matplotlib`
 - `random`
+- `json`
